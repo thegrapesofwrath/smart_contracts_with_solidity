@@ -7,6 +7,6 @@ contract WeiToEther {
     // Account to Query
     address accountToQuery = address(0x60Ab4AE28f3656840BCDd55187e075cDE023a232);
     
-    // Balance in wei
+    // Balance in wei - Divide the balance by 10^18
     uint etherBalance = accountToQuery.balance / 1000000000000000000;
 }

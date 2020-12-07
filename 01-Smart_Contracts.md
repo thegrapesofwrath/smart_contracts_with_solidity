@@ -210,13 +210,9 @@ Download the following files to help you get started.
 
 ### Solution
 
-How did you do? Check your solution in the following assessment: 
+How did you do? Check your solution with the following solution file:
 
-[LEARNOSITY NEEDED]
-
-The following video reviews the solution step by step. You can also refer to the solution file in the `Solved` folder, which is in the zipped folder you downloaded for this activity.
-
-[VIDEO NEEDED] 
+[Solution](/Activities/01-Wei_to_Ether/Solved/wei_to_ether.sol)
 
 ### What’s Next? 
 
